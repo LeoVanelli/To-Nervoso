@@ -6,6 +6,8 @@ namespace To_Nervoso
     {
         static void Main(string[] args)
         {
+            // Peça ao usuário que ele digite o que pensa sobre esse programa. Exiba uma resposta em versão meme.
+            
             Console.WriteLine("{0}, o que você pensa sobre mim? Você é muito sem graça! ",Environment.UserName);
 
             Console.Write("Digite a seguir sua resposta: ");
